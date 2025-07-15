@@ -34,14 +34,14 @@ export default function HomePage() {
             size="lg"
             className="bg-brand-primary hover:bg-brand-primary/90 text-white font-bold px-8 py-6 text-base"
           >
-            I'm a Teacher <ArrowRight className="ml-2 h-5 w-5" />
+            I&apos;m a Teacher <ArrowRight className="ml-2 h-5 w-5" />
           </Button>
           <Button
             size="lg"
             variant="outline"
             className="font-bold border-2 border-brand-secondary text-brand-secondary px-8 py-6 text-base hover:bg-brand-secondary/5"
           >
-            I'm a Student
+            I&apos;m a Student
           </Button>
         </div>
       </div>
